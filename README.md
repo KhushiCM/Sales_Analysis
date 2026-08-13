@@ -73,4 +73,5 @@ Possible improvements include:
 # Author
 
 Khushi Chhanna Meshram
+
 This project was created as a practical data analytics project covering the workflow from raw data to business intelligence.
